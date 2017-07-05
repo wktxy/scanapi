@@ -1,2 +1,1 @@
-###Description
-An api for returning information from a picture
+An api to scan information from a photo
